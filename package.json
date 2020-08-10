@@ -1,0 +1,24 @@
+{
+  "name": "api1-project",
+  "version": "1.0.0",
+  "description": "lambda's first express project",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buchananta/node-api1-project.git"
+  },
+  "author": "Trevor Buchanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buchananta/node-api1-project/issues"
+  },
+  "homepage": "https://github.com/buchananta/node-api1-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
